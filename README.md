@@ -1,2 +1,2 @@
 # TLG
-Game for seeting goal
+Game for setting goal
